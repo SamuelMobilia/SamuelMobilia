@@ -24,7 +24,7 @@ ML & Data Engineer | scalable pipelines and robust models. Automated workflows a
 
 ---
 
-### Languages & Stacks
+### Languages | Stacks | Tech
 
 <img 
     align="left" 
