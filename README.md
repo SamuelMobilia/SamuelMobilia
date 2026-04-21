@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Samuel Mobilia Mota
+# Samuel Mobilia Mota
 
-**`Desenvolvedora FullStack`**
+**`Ml/AI Engineer`**
 
 ML & Data Engineer | Building scalable pipelines and deploying robust models. Focused on clean code, automated workflows, and efficient data architecture. Turning raw data into production-ready intelligence.
 
@@ -26,7 +26,6 @@ ML & Data Engineer | Building scalable pipelines and deploying robust models. Fo
 
 ### Languages & Stacks
 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -43,6 +42,22 @@ ML & Data Engineer | Building scalable pipelines and deploying robust models. Fo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
 
 <br/>
 <br/>
@@ -55,14 +70,14 @@ ML & Data Engineer | Building scalable pipelines and deploying robust models. Fo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SamuelMobilia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMobilia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
