@@ -2,7 +2,7 @@
 
 **`Ml/AI Engineer`**
 
-ML & Data Engineer | Building scalable pipelines and deploying robust models. Focused on clean code, automated workflows, and efficient data architecture. Turning raw data into production-ready intelligence.
+ML & Data Engineer | scalable pipelines and robust models. Automated workflows and efficient data architecture. Turning raw data into production-ready intelligence.
 
 <p align="left">
     </a> 
